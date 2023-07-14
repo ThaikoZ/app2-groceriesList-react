@@ -1,0 +1,5 @@
+{
+  "git.enableSmartCommit": true,
+  "git.closeDiffOnOperation": false,
+  "git.alwaysShowStagedChangesResourceGroup": false
+}
