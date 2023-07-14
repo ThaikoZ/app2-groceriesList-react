@@ -97,7 +97,6 @@ ul li::before {
   background-color: #ccc;
   cursor: pointer;
 }
-
 .item input[type="checkbox"] {
   text-align: center;
   width: 2.5rem;
